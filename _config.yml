@@ -2,11 +2,11 @@
 
 #google_analytics: UA-NNNNNNNN-N
 
-#header_pages:
-#  - index.md
-#  - about.md
+header_pages:
+  - index.md
+  - about.md
 
-#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: 'Vote for our validator `5CPfVnitvdTVFUmJCPFV8zX3LvDZGyf4tPHsBGH2F6D34qvc`'
 
 #style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)

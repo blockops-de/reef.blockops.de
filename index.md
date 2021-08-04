@@ -1,9 +1,16 @@
 ---
-title: /
+title: /home
 layout: home
 permalink: /
 ---
 
-# Lorem ipsum
+# Reef Finance Buidler
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Welcome to our custom **REEF** finance page where we present BlockOps as a
+party to deliver services to the REEF community.
+
+## Services
+
+* Public API endpoint ([rpc.reef.blockops.de](https://rpc.reef.blockops.de))
+* Public P2P bootrap node ([boot.reef.blockops.de](https://boot.reef.blockops.de))
+* Validator (`5CPfVnitvdTVFUmJCPFV8zX3LvDZGyf4tPHsBGH2F6D34qvc`)
