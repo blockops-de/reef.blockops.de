@@ -13,10 +13,11 @@ party to deliver services to the REEF community.
 
 * Public API endpoint
   * SSL, load-balanced, redundant
-  * URL: [rpc.reef.blockops.de](https://rpc.reef.blockops.de) (T.B.R)
+  * RPC: [rpc.reef.blockops.de](https://rpc.reef.blockops.de)🎉
+  * WSS: [ws.reef.blockops.de](wss://ws.reef.blockops.de)🎉
 * Public P2P bootrap node
   * load-balanced, redundant
-  * URL: [boot.reef.blockops.de](https://boot.reef.blockops.de) (T.B.R)
+  * URL: `boot.reef.blockops.de:30333` 🎉
 * Validator
   * address: **`5CPfVnitvdTVFUmJCPFV8zX3LvDZGyf4tPHsBGH2F6D34qvc`**
 
